@@ -1,3 +1,6 @@
 
 *.sb-a7c88128-Y5r3Zf
 EFI/OC/.DS_Store
+EFI/.DS_Store
+.DS_Store
+EFI/OC/config.plist
